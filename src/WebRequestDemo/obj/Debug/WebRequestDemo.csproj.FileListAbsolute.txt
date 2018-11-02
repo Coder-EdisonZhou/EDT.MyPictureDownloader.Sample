@@ -1,0 +1,7 @@
+E:\Project Files\DotNet Projects\MyPictureDownloader\WebRequestDemo\bin\Debug\WebRequestDemo.exe
+E:\Project Files\DotNet Projects\MyPictureDownloader\WebRequestDemo\bin\Debug\WebRequestDemo.pdb
+E:\Project Files\DotNet Projects\MyPictureDownloader\WebRequestDemo\obj\Debug\WebRequestDemo.csprojResolveAssemblyReference.cache
+E:\Project Files\DotNet Projects\MyPictureDownloader\WebRequestDemo\obj\Debug\WebRequestDemo.exe
+E:\Project Files\DotNet Projects\MyPictureDownloader\WebRequestDemo\obj\Debug\WebRequestDemo.pdb
+E:\Projects\dotNet\MyPictureDownloader\WebRequestDemo\obj\Debug\WebRequestDemo.exe
+E:\Projects\dotNet\MyPictureDownloader\WebRequestDemo\obj\Debug\WebRequestDemo.pdb
